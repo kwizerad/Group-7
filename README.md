@@ -1,4 +1,13 @@
-
+## Team Information
+**Group Members:**
+1. Kwizera Dieume: 30654/2025  - User Management (Component 1)
+2. Isaac Smith: 20434/2022 - User Management (Component 1)
+3. Muzerwa 30265/2025 - Course Management (Component 2)
+4. ⁠Mohanad Hamad: 29570/2025 - Enrollment System (Component 3)
+5. Ayham mamdouh 29484/2025 - Grade Management (Component 4)
+6. Ahmed HASHIM 26622/2024 - Notification System (Component 5)
+7. ELMOIZ ABDAllA 27449/2024 - Reporting System (Component 6)
+8. FATHELRahman Hussein 25464/2024 - Authentication & Data Persistence (Components 7 & 8)
 
 
 Question 4:-
