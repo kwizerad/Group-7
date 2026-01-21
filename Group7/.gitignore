@@ -1,0 +1,14 @@
+# Eclipse / IDE
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Build output
+bin/
+*.class
+
+# Logs
+*.log
+activity.log
